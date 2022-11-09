@@ -1,0 +1,7 @@
+﻿  null_init.c
+  null_joystick.c
+  null_monitor.c
+  null_window.c
+  platform.c
+  Generating Code...
+  GLFW.vcxproj -> C:\Dev\Turbo\Turbo\vendor\GLFW\bin\Debug-windows-${cfg.architecture}\GLFW\GLFW.lib
